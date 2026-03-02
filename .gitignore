@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# PyInstaller
+*.spec
+build_temp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Installer
+installer_output/
+
+# Logs
+*.log
+
+# Settings (user-specific)
+widget_settings.json
+
+# OS
+Thumbs.db
+.DS_Store
+NUL
+
+# Virtual env
+venv/
+.env/
